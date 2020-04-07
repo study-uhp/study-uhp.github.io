@@ -4,7 +4,7 @@
   tag: 
   - Mockup Ideas
   - Final Project
-  image: studyuhp_roughdraft.jpg
+  image: ![](images/studyuhp_roughdraft.jpg)
 ---
 
 ## Table of contents
