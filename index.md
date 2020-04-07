@@ -15,6 +15,8 @@
 
 ## Overview
 
+![](images/studyuhp_logo.png)
+
 Study UHp is a web application that can allows students to organize face-to-face groups for studying course material. It uses various technologies such as: 
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
