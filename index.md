@@ -47,13 +47,18 @@ This is the first page that new or returning users see. Users can sign in or sig
 
 ![](images/landing_mockup_color.jpg)
 
-### User page
+### User profile page
 
 ![](images/user_mockup.jpg)
 
-### Home page
-
-
-
-![](images/placeholder()
+### User sign up page
+### User home page
+### Admin home page
+### User calendar page
+### Create study session page
+### Find study sessions page
+### List study sessions page
+### Leaderboard
+### Friends
+### Messages
 
