@@ -47,7 +47,7 @@ This is the first page that new or returning users see. Users can sign in or sig
 
 ### User page
 
-
+![](images/user_mockup.jpg)
 
 ### Home page
 
