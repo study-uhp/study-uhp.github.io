@@ -24,15 +24,15 @@ Study UHp is a web application that can allows students to organize face-to-face
 
 ## Goals of the Project
 
-* 
-*
-*
+* To encourage the use of ICSpace among ICS students
+* To minimize risk of inappropriate encounters by requiring that all meetings occur in ICSpace.
+* To encourage face-to-face interaction among ICS students.
 
 ### Goals of Team Members
 
 * To put the skills we learn in class to the test.
 * To gain experience working in a team to develop a web application.
-* To excercise creative abilities
+* To exercise creative abilities
 * To practice and improve skills using Meteor, React, Semantic UI, and MongoDB.
 
 ## Mockup Ideas
