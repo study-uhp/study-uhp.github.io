@@ -1,6 +1,6 @@
 ---
   title: "Study UHp"
-  layout: post
+  layout: home
   tag: 
   - Mockup Ideas
   - Final Project
