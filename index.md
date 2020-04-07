@@ -63,7 +63,7 @@ This is the first page that new or returning users see. Users can sign in or sig
 ### Leaderboard
 ### Friends
 
-![](images/friends.png)
+![](images/friends.PNG)
 
 ### Messages
 
