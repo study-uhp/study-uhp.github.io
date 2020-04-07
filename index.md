@@ -15,7 +15,7 @@
 
 ## Overview
 
-Study UHp is a web application that can allows students and faculity post places to relax, collaberate, and study. Users can post locations that they recommend, they can also rate each post and comment on them too. It uses various technologies such as: 
+Study UHp is a web application that can allows students to organize face-to-face groups for studying course material. It uses various technologies such as: 
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -23,14 +23,17 @@ Study UHp is a web application that can allows students and faculity post places
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Goals of the Project
+
+* 
 *
 *
-*
-*
-*
-*
-*
-*
+
+### Goals of Team Members
+
+* To put the skills we learn in class to the test.
+* To gain experience working in a team to develop a web application.
+* To excercise creative abilities
+* To practice and improve skills using Meteor, React, Semantic UI, and MongoDB.
 
 ## Mockup Ideas
 
@@ -38,23 +41,23 @@ These are the ideas that we would like to implement in our web application.
 
 ### Landing Page
 
-This is the first page that new or returning users see. Users can sign in, sign up, or just view posts.
+This is the first page that new or returning users see. Users can sign in or sign up.
 
 ![](images/landing_mockup_color.jpg)
 
 ### User page
 
-This is the page where users can see their own posts and the comments on them.
+
 
 ### Home page
 
-After you sign up or log in the user will be directed to this page where they can see all the new posts.
+
 
 ![](images/placeholder()
 
 ### Add UHplace
 
-Once you have logged in you can add UHplace that you recomend
+
 
 ![](images/placeholder()
 
