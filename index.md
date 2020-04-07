@@ -62,5 +62,8 @@ This is the first page that new or returning users see. Users can sign in or sig
 ### List study sessions page
 ### Leaderboard
 ### Friends
+
+![](images/friends.png)
+
 ### Messages
 
