@@ -55,9 +55,3 @@ This is the first page that new or returning users see. Users can sign in or sig
 
 ![](images/placeholder()
 
-### Add UHplace
-
-
-
-![](images/placeholder()
-
