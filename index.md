@@ -22,6 +22,8 @@ Study UHp is a web application that can allows students to organize face-to-face
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+In order to minimize the possibility of cheating and taking advantage of the monetary incentives, grasshoppers will be required to submit proof of the help that they received (by providing screenshots or assignments). The submission will be sent to moderators to avoid cheating amongst classes. If the moderator decides that the submission was acceptable he/she will approve scoring and give the ‘sensei’ the number of rated points out of 5.
+
 ## Goals of the Project
 
 * To encourage the use of ICSpace among ICS students
