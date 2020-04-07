@@ -40,7 +40,7 @@ These are the ideas that we would like to implement in our web application.
 
 This is the first page that new or returning users see. Users can sign in, sign up, or just view posts.
 
-![](images/landing-mockup.png)
+![](images/landing_mockup_color.jpg)
 
 ### User page
 
