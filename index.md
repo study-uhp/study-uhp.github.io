@@ -7,7 +7,11 @@
   image: ![](images/studyuhp_roughdraft.jpg)
 ---
 
-## Table of contents
+![](images/studyup_logo_final_big.png)
+
+
+
+#### Table of contents
 
 * [Overview](#overview)
 * [Goals of the Project](#goals-of-the-project)
