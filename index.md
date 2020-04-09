@@ -16,6 +16,7 @@
 * [Overview](#overview)
 * [Goals of the Project](#goals-of-the-project)
 * [Mockup Ideas](#mockup-ideas)
+* [Miletstone 1](#milestone-1)
 
 
 
@@ -131,4 +132,20 @@ Either a private or public message system that will allow users to asks question
 ## Use Cases
 
 Need to establish a set of use cases to use as development guidelines
+
+
+
+## Milestone 1
+
+- [ ] Deployed to Galaxy
+- [ ] Landing page
+- [ ] Mockups of at least 4 other pages
+- [ ] GitHub issues/GitHub project board for management
+- [ ] IDMP practices
+- [ ] Home Page stuff:
+  -  A link to the GitHub organization associated with this project and all of its repositories
+  -  Up-to-date screen shots with a link to the same page running on Galaxy
+  -  A link to the running deployment of your system on Galaxy
+  -  A link to the M1 Project page - showing completed - no issues in the Backlog or In Progress for this milestone
+  -  A link to the M2 Project page - showing the issues expected to be addressed
 
