@@ -65,7 +65,7 @@ This is the first page that new or returning users see. Users can sign in or sig
 
 ![](images/landing-updated.PNG)
 
-After signing up and clicking the top left icon, users will see this landing page.
+After signing in and clicking the top left icon, users will see this landing page.
 
 ![](images/landing-updated-signedin.PNG)
 
