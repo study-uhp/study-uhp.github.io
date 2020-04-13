@@ -22,7 +22,7 @@
 
 ## Overview
 
-Study UHp is a web application that can allows students to organize face-to-face groups for studying course material. It uses various technologies such as: 
+Study UHp is a web application that allows students to organize face-to-face groups for studying course material. It uses various technologies such as: 
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -63,7 +63,11 @@ These are the ideas that we would like to implement in our web application.
 
 This is the first page that new or returning users see. Users can sign in or sign up.
 
-![](images/landing_mockup_color.jpg)
+![](images/landing-updated.PNG)
+
+After signing up and clicking the top left icon, users will see this landing page.
+
+![](images/landing-updated-signedin.PNG)
 
 ### User profile page
 
