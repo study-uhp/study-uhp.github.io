@@ -128,14 +128,16 @@ Need to establish a set of use cases to use as development guidelines
 - [x] Mockups of at least 4 other pages
 - [x] GitHub issues/GitHub project board for management
 - [x] IDMP practices
-- [ ] Home Page stuff:
+- [x] Home Page stuff:
   -  A link to the GitHub organization associated with this project and all of its repositories
   -  Up-to-date screen shots with a link to the same page running on Galaxy
   -  A link to the running deployment of your system on Galaxy
   -  A link to the M1 Project page - showing completed - no issues in the Backlog or In Progress for this milestone
   -  A link to the M2 Project page - showing the issues expected to be addressed
 
+Milestone 1 was managed with the [M1 Project Board](https://github.com/study-uhp/study-uhp/projects/1)
 
+[![m1_project](images/m1Board.PNG)](https://github.com/study-uhp/study-uhp/projects/1)
 
 ### Current Functionality:
 
@@ -203,17 +205,8 @@ If a user is logged in with admin permissions they will be able to navigate to a
 
 [![m1_admin](images/m1_admin.png)](http://study-uhp.meteorapp.com/#/admin)
 
-Development History
+Milestone 2
 ---
-
-#### Milestone 1
-The goal of [Milestone 1](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m1.html) was to create the pages for the web application, make a landing page, make a theme, and to deploy to galaxy.
-
-Milestone 1 was managed with the [M1 Project Board](https://github.com/study-uhp/study-uhp/projects/1)
-
-[![m1_project](images/m1Board.PNG)](https://github.com/study-uhp/study-uhp/projects/1)
-
-#### Milestone 2
 The goal of [Milestone 2](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m2.html) is to improve the functionality, software engineering process, and quality of the application significantly. 
 
 Milestone 2 is being managed with the [M2 Project Board](https://github.com/study-uhp/study-uhp/projects/3)
