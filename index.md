@@ -16,7 +16,11 @@
 * [Overview](#overview)
 * [Goals of the Project](#goals-of-the-project)
 * [Mockup Ideas](#mockup-ideas)
-* [Miletstone 1](#milestone-1)
+* [Milestone 1](#milestone-1)
+
+
+
+> ### [We have deployed Milestone 1 to Galaxy! Click here to check it out.](https://study-uhp.meteorapp.com/)
 
 
 
@@ -133,68 +137,69 @@ Need to establish a set of use cases to use as development guidelines
 
 
 
-### We have deployed Milestone 1 to Galaxy!
-
-#### https://study-uhp.meteorapp.com/
-
-
-
 ### Current Functionality:
 
 #### Landing
 
 The first page a user will see when coming to site.
 
-
+![m1_landing](images/m1_landing.png)
 
 #### User Sign Up
 
 If a user does not currently have an account they can create one. We ask for some basic information about the user to get their profile started.
 
-
+![m1_signup](images/m1_signup.png)
 
 #### User Sign In
 
 If the user already has an account they can proceed to sign in.
 
-
+![m1_signin](images/m1_signin.png)
 
 #### User Dashboard
 
 The first page a user will see after logging in. They will also be directed here if logged in and return to the site or if they click on the logo in the navigation bar.
 
-
+![m1_dashboard](images/m1_dashboard.png)
 
 #### Study Sessions
 
 The list of all currently scheduled study sessions. This is only available to logged in users. The "Join Session" functionality is not currently active, but will allow a user to join a study session if there is available space.
 
-
+![m1_listsession](images/m1_listsession.png)
 
 #### Create A Study Session
 
 A logged in user can create a new study session. Currently only basic options are available, and in the future they will be able to specify more detail and also schedule a session for "Right Now!"
 
-
+![m1_addsession](images/m1_addsession.png)
 
 #### Edit A Study Session
 
 A logged in user can edit a study session only if they are the "owner" of the study session. The same fields available upon creation and available to edit.
 
-
+![m1_editsession](images/m1_editsession.png)
 
 #### Calendar
 
-Logged in users can view all of the upcoming study sessions in a calendar view. Currently clicking on a session will only provide a modal dialog with placeholder text. In the future a user will be given the option to view details about the session or join it.
+Logged in users can view all of the upcoming study sessions in a calendar view. 
 
+![m1_calendar](images/m1_calendar.png)
 
+Currently clicking on a session will only provide a modal dialog with placeholder text. In the future a user will be given the option to view details about the session or join it.
+
+![m1_calendar_popup](images/m1_calendar_popup.png)
 
 #### User Profile
 
 Currently just a placeholder mockup page. In the future logged in users will be able to see their profile which will include their class listing, bio, profile picture, and rating among other things.
 
-
+![m1_profile](images/m1_profile.png)
 
 #### Admin
 
 If a user is logged in with admin permissions they will be able to navigate to a special "Admin" page that will show a listing of all upcoming sessions. Currently the "Delete" button is not functional. In the future an admin user will have various control abilities over sessions and other aspects of the site.
+
+![m1_admin](images/m1_admin.png)
+
