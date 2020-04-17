@@ -4,7 +4,7 @@
   tag: 
   - Mockup Ideas
   - Final Project
-  image: ![](images/studyuhp_roughdraft.jpg)
+  image: ![](images/studyuhp_logo_square.jpg)
 ---
 
 ![](images/studyup_logo_final_big.png)
@@ -40,6 +40,8 @@ In order to minimize the possibility of cheating and taking advantage of the mon
 - [Michael Gainey](https://github.com/micgainey)
 - [Christian Jensen](https://github.com/christianjensenv)
 
+
+
 ### Goals of the Project
 
 * To encourage the use of ICSpace among ICS students
@@ -57,7 +59,7 @@ In order to minimize the possibility of cheating and taking advantage of the mon
 
 ## Mockup Ideas
 
-These are the ideas that we would like to implement in our web application.
+These are our original mockup ideas which have been superseded by the Milestone 1 deployment.
 
 ### Landing Page
 
@@ -85,33 +87,9 @@ We would like to implement some kind of a "friends list" using the way Discord d
 
 ### Other pages that currently do not have mockups:
 
-#### User sign up page
-
-The page when a user new to application needs to sign up.
-
-#### User home page
-
-The first page a user sees after logging in or returning.
-
-#### Admin home page
-
-A dashboard for administrative tasks.
-
-#### Calendar page
-
-The calendar page will list all upcoming study sessions and the list of those who are attending.
-
-#### Create study session page
-
-Allows a user to create a study session either "Right Now!" or scheduled in the future.
-
 #### Find study sessions page
 
 Users can search for current and future study sessions by class.
-
-#### List study sessions page
-
-Users can list all current and future sessions by class.
 
 #### Leaderboard
 
@@ -141,11 +119,11 @@ Need to establish a set of use cases to use as development guidelines
 
 ## Milestone 1
 
-- [ ] Deployed to Galaxy
-- [ ] Landing page
-- [ ] Mockups of at least 4 other pages
-- [ ] GitHub issues/GitHub project board for management
-- [ ] IDMP practices
+- [x] Deployed to Galaxy
+- [x] Landing page
+- [x] Mockups of at least 4 other pages
+- [x] GitHub issues/GitHub project board for management
+- [x] IDMP practices
 - [ ] Home Page stuff:
   -  A link to the GitHub organization associated with this project and all of its repositories
   -  Up-to-date screen shots with a link to the same page running on Galaxy
@@ -153,3 +131,70 @@ Need to establish a set of use cases to use as development guidelines
   -  A link to the M1 Project page - showing completed - no issues in the Backlog or In Progress for this milestone
   -  A link to the M2 Project page - showing the issues expected to be addressed
 
+
+
+### We have deployed Milestone 1 to Galaxy!
+
+#### https://study-uhp.meteorapp.com/
+
+
+
+### Current Functionality:
+
+#### Landing
+
+The first page a user will see when coming to site.
+
+
+
+#### User Sign Up
+
+If a user does not currently have an account they can create one. We ask for some basic information about the user to get their profile started.
+
+
+
+#### User Sign In
+
+If the user already has an account they can proceed to sign in.
+
+
+
+#### User Dashboard
+
+The first page a user will see after logging in. They will also be directed here if logged in and return to the site or if they click on the logo in the navigation bar.
+
+
+
+#### Study Sessions
+
+The list of all currently scheduled study sessions. This is only available to logged in users. The "Join Session" functionality is not currently active, but will allow a user to join a study session if there is available space.
+
+
+
+#### Create A Study Session
+
+A logged in user can create a new study session. Currently only basic options are available, and in the future they will be able to specify more detail and also schedule a session for "Right Now!"
+
+
+
+#### Edit A Study Session
+
+A logged in user can edit a study session only if they are the "owner" of the study session. The same fields available upon creation and available to edit.
+
+
+
+#### Calendar
+
+Logged in users can view all of the upcoming study sessions in a calendar view. Currently clicking on a session will only provide a modal dialog with placeholder text. In the future a user will be given the option to view details about the session or join it.
+
+
+
+#### User Profile
+
+Currently just a placeholder mockup page. In the future logged in users will be able to see their profile which will include their class listing, bio, profile picture, and rating among other things.
+
+
+
+#### Admin
+
+If a user is logged in with admin permissions they will be able to navigate to a special "Admin" page that will show a listing of all upcoming sessions. Currently the "Delete" button is not functional. In the future an admin user will have various control abilities over sessions and other aspects of the site.
