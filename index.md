@@ -207,13 +207,14 @@ Development History
 ---
 
 #### Milestone 1
-The goal of [milestone 1](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m1.html) was to create the pages for the web application, make a landing page, make a theme, and to deploy to galaxy.
+The goal of [Milestone 1](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m1.html) was to create the pages for the web application, make a landing page, make a theme, and to deploy to galaxy.
 
 Milestone 1 was managed with the [M1 Project Board](https://github.com/study-uhp/study-uhp/projects/1)
 
 [![m1_project](images/m1Board.PNG)](https://github.com/study-uhp/study-uhp/projects/1)
 
 #### Milestone 2
+The goal of [Milestone 2](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m2.html) is to improve the functionality, software engineering process, and quality of the application significantly. 
 
 Milestone 2 is being managed with the [M2 Project Board](https://github.com/study-uhp/study-uhp/projects/3)
 
