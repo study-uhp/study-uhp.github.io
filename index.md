@@ -211,4 +211,11 @@ The goal of [Milestone 2](http://courses.ics.hawaii.edu/ics314s20/morea/final-pr
 
 Milestone 2 is being managed with the [M2 Project Board](https://github.com/study-uhp/study-uhp/projects/3)
 
+- [ ] Admin functionality
+- [ ] Polish up all forms
+- [ ] Course collections
+- [ ] User collections
+ 
+  
+
 [![m2_project](images/m2Board.PNG)](https://github.com/study-uhp/study-uhp/projects/3)
