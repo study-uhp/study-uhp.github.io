@@ -39,10 +39,10 @@ In order to minimize the possibility of cheating and taking advantage of the mon
 
 ## Team Members
 
-- [Aaron Banks](https://github.com/abanks7)
-- [Jack Horton](https://github.com/JohnHortonIV)
-- [Michael Gainey](https://github.com/micgainey)
-- [Christian Jensen](https://github.com/christianjensenv)
+- [Aaron Banks](https://abanks7.github.io/)
+- [Jack Horton](https://johnhortoniv.github.io/)
+- [Michael Gainey](https://micgainey.github.io/)
+- [Christian Jensen](https://christianjensenv.github.io/)
 
 
 
