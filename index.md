@@ -65,23 +65,7 @@ In order to minimize the possibility of cheating and taking advantage of the mon
 
 ## Mockup Ideas
 
-These are our original mockup ideas which have been superseded by the Milestone 1 deployment.
-
-### Landing Page
-
-This is the first page that new or returning users see. Users can sign in or sign up.
-
-![](images/landing-updated.PNG)
-
-After signing in and clicking the top left icon, users will see this landing page.
-
-![](images/landing-updated-signedin.PNG)
-
-### User profile page
-
-The page a user will see when they view (and can edit) their own personal profile.
-
-![](images/user_mockup.jpg)
+These are our original mockup ideas which have been superseded by the Milestone 1 & 2 deployment.
 
 ### Friends
 
@@ -121,25 +105,25 @@ Either a private or public message system that will allow users to asks question
 
 Need to establish a set of use cases to use as development guidelines
 
-
-
 ## Milestone 1
 
-- [x] Deployed to Galaxy
-- [x] Landing page
-- [x] Mockups of at least 4 other pages
-- [x] GitHub issues/GitHub project board for management
-- [x] IDMP practices
-- [x] Home Page stuff:
-  -  A link to the GitHub organization associated with this project and all of its repositories
-  -  Up-to-date screen shots with a link to the same page running on Galaxy
-  -  A link to the running deployment of your system on Galaxy
-  -  A link to the M1 Project page - showing completed - no issues in the Backlog or In Progress for this milestone
-  -  A link to the M2 Project page - showing the issues expected to be addressed
+Milestone 1 and past progress can be seen by clicking [here](/past).
 
-Milestone 1 was managed with the [M1 Project Board](https://github.com/study-uhp/study-uhp/projects/1)
+Milestone 2
+---
 
-[![m1_project](images/m1Board.PNG)](https://github.com/study-uhp/study-uhp/projects/1)
+The goal of [Milestone 2](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m2.html) is to improve the functionality, software engineering process, and quality of the application significantly. 
+
+Milestone 2 is being managed with the [M2 Project Board](https://github.com/study-uhp/study-uhp/projects/3)
+
+- [x] Admin functionality
+- [x] Polish up all forms
+- [x] Course collections
+- [x] User collections
+
+[![m2_project](images/m2Board.PNG)](https://github.com/study-uhp/study-uhp/projects/3)
+
+
 
 ### Current Functionality:
 
@@ -169,9 +153,15 @@ The first page a user will see after logging in. They will also be directed here
 
 #### Study Sessions
 
-The list of all currently scheduled study sessions. This is only available to logged in users. The "Join Session" functionality is not currently active, but will allow a user to join a study session if there is available space.
+The list of all currently scheduled study sessions. This is only available to logged in users. The "Join Session" functionality is not currently active, but will allow a user to join a study session if there is available space. The "view" link lets a user see more information about a currently scheduled session. A user can sort the list by any of the column headings, and also filter it to find any particular session by any category.
 
-[![m1_listsession](images/m1_listsession.png)](http://study-uhp.meteorapp.com/#/allsessions)
+[![allsessions2](images/allsessions2.png)](http://study-uhp.meteorapp.com/#/allsessions2)
+
+#### View Session
+
+A user can view information about a scheduled session. In the future this will list all the participants and allow a user to join the session.
+
+[![viewsession](images/viewsession.png)](http://study-uhp.meteorapp.com/#/allsessions2)
 
 #### Create A Study Session
 
@@ -199,7 +189,11 @@ Currently clicking on a session will only provide a modal dialog with placeholde
 
 Currently just a placeholder mockup page. In the future logged in users will be able to see their profile which will include their class listing, bio, profile picture, and rating among other things.
 
-[![m1_profile](images/m1_profile.png)](http://study-uhp.meteorapp.com/#/profile)
+[![userprofile2](images/userprofile2.png)](http://study-uhp.meteorapp.com/#/profile)
+
+A user can also edit their profile information, including adding and removing classes.
+
+[![editprofile](images/editprofile.png)](http://study-uhp.meteorapp.com/#/editprofile)
 
 #### Admin
 
@@ -207,22 +201,10 @@ If a user is logged in with admin permissions they will be able to navigate to a
 
 [![m1_admin](images/m1_admin.png)](http://study-uhp.meteorapp.com/#/admin)
 
-Milestone 2
----
-The goal of [Milestone 2](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m2.html) is to improve the functionality, software engineering process, and quality of the application significantly. 
-
-Milestone 2 is being managed with the [M2 Project Board](https://github.com/study-uhp/study-uhp/projects/3)
-
-- [x] Admin functionality
-- [x] Polish up all forms
-- [x] Course collections
-- [x] User collections
- 
-[![m2_project](images/m2Board.PNG)](https://github.com/study-uhp/study-uhp/projects/3)
 
 Milestone 3
 ---
-The goal of [Milestone 3](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m3.html) is to significantly improve funtionality from Milestone 2. And to find five UH community members to try ou the system and provide feedback. 
+The goal of [Milestone 3](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m3.html) is to significantly improve functionality from Milestone 2, and to find five UH community members to try out the system and provide feedback. 
 
 [![m3_project](images/TEMP-M3.PNG)](https://github.com/study-uhp/study-uhp/projects/4)
 
@@ -234,9 +216,9 @@ This section provides information of interest to Meteor developers wishing to us
 ### Installation
 First, install [Meteor](https://www.meteor.com/install).
 
-Second, visit the [Bowfolios application github page](https://github.com/bowfolios/bowfolios), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+Second, visit the [Study-UHp application github page](https://github.com/study-uhp/study-uhp), and download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
 
-Third, cd into the bowfolios/app directory and install libraries with:
+Third, cd into the study-uhp/app directory and install libraries with:
 ~~~
 $ meteor npm install
 ~~~
@@ -255,15 +237,15 @@ Initialization
 
 The [config](https://github.com/bowfolios/bowfolios/tree/master/config) directory is intended to hold settings files. The repository contains one file: [config/settings.development.json](https://github.com/bowfolios/bowfolios/blob/master/config/settings.development.json).
 
-This file contains default definitions for Profiles, Projects, and Interests and the relationships between them. Consult the walkthrough video for more details.
+This file contains default definitions for Users, Profiles, and Sessions and the relationships between them. Consult the walkthrough video for more details.
 
-The settings.development.json file contains a field called “loadAssetsFile”. It is set to false, but if you change it to true, then the data in the file app/private/data.json will also be loaded. The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
+The settings.development.json file contains a field called “loadAssetsFile”. It is set to true, but if you change it to false, then the data in the file app/private/data.json will not be loaded. The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
 
 Quality Assurance
 ---
 
 ### ESLint
-BowFolios includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+Study UHp includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
 ~~~
 meteor npm run lint
