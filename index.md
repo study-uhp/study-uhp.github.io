@@ -19,6 +19,7 @@
 * [Mockup Ideas](#mockup-ideas)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
+* [Milestone 3](#milestone-3)
 * [Developer Guide](#developer-guide)
 
 > ### [We have deployed Milestone 1 to Galaxy! Click here to check it out.](https://study-uhp.meteorapp.com/)
@@ -217,9 +218,13 @@ Milestone 2 is being managed with the [M2 Project Board](https://github.com/stud
 - [x] Course collections
 - [x] User collections
  
-  
-
 [![m2_project](images/m2Board.PNG)](https://github.com/study-uhp/study-uhp/projects/3)
+
+Milestone 3
+---
+The goal of [Milestone 3](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m3.html) is to significantly improve funtionality from Milestone 2. And to find five UH community members to try ou the system and provide feedback. 
+
+
 
 Developer Guide
 ---
