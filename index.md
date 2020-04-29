@@ -14,11 +14,12 @@
 #### Table of contents
 
 * [Overview](#overview)
+* [Team Members](#team-members)
 * [Goals of the Project](#goals-of-the-project)
 * [Mockup Ideas](#mockup-ideas)
 * [Milestone 1](#milestone-1)
-
-
+* [Milestone 2](#milestone-2)
+* [Developer Guide](#)
 
 > ### [We have deployed Milestone 1 to Galaxy! Click here to check it out.](https://study-uhp.meteorapp.com/)
 
@@ -219,3 +220,45 @@ Milestone 2 is being managed with the [M2 Project Board](https://github.com/stud
   
 
 [![m2_project](images/m2Board.PNG)](https://github.com/study-uhp/study-uhp/projects/3)
+
+Developer Guide
+---
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+First, install [Meteor](https://www.meteor.com/install).
+
+Second, visit the [Bowfolios application github page](https://github.com/bowfolios/bowfolios), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the bowfolios/app directory and install libraries with:
+~~~
+$ meteor npm install
+~~~
+Fourth, run the system with:
+~~~
+$ meteor npm run start
+~~~
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Application Design
+
+Study UHp is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Study UHp.
+
+Initialization
+---
+
+The [config](https://github.com/bowfolios/bowfolios/tree/master/config) directory is intended to hold settings files. The repository contains one file: [config/settings.development.json](https://github.com/bowfolios/bowfolios/blob/master/config/settings.development.json).
+
+This file contains default definitions for Profiles, Projects, and Interests and the relationships between them. Consult the walkthrough video for more details.
+
+The settings.development.json file contains a field called “loadAssetsFile”. It is set to false, but if you change it to true, then the data in the file app/private/data.json will also be loaded. The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
+
+Quality Assurance
+---
+
+### ESLint
+BowFolios includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+~~~
+meteor npm run lint
+~~~
