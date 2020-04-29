@@ -19,7 +19,7 @@
 * [Mockup Ideas](#mockup-ideas)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
-* [Developer Guide](#)
+* [Developer Guide](#developer-guide)
 
 > ### [We have deployed Milestone 1 to Galaxy! Click here to check it out.](https://study-uhp.meteorapp.com/)
 
