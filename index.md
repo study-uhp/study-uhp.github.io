@@ -224,6 +224,7 @@ Milestone 3
 ---
 The goal of [Milestone 3](http://courses.ics.hawaii.edu/ics314s20/morea/final-project/experience-final-project-m3.html) is to significantly improve funtionality from Milestone 2. And to find five UH community members to try ou the system and provide feedback. 
 
+[![m3_project](images/TEMP-M3.PNG)](https://github.com/study-uhp/study-uhp/projects/4)
 
 
 Developer Guide
