@@ -22,7 +22,7 @@
 * [Milestone 3](#milestone-3)
 * [Developer Guide](#developer-guide)
 
-> ### [We have deployed Milestone 1 to Galaxy! Click here to check it out.](https://study-uhp.meteorapp.com/)
+> ### [We have deployed Milestone 2 to Galaxy! Click here to check it out.](https://study-uhp.meteorapp.com/)
 
 
 
