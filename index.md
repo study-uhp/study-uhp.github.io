@@ -290,7 +290,7 @@ meteor npm run lint
 ### Community Feedback
 
 ##### How does the site look?
-![chart](images/chart.PNG)
+![chart](images/newpie.PNG)
 
 ##### What's your favorite thing about the web app? Why?
 
@@ -299,6 +299,7 @@ meteor npm run lint
 - Site is responsive and is not cluttered. For these two things to go wrong may make the user feel confused or exit the website.
 - The buttons and effort to implement the overall data.
 - My favorite thing about the web app is how accessible it is. It is easy to create, join, and leave sessions. I can filter and sort the sessions by class and I can see (most of) the upcoming sessions on the calendar.
+- I like the color scheme and graphic design, it pleases me visually
 
 ##### Least favorite? Why?
 
@@ -307,6 +308,7 @@ meteor npm run lint
 - When user first gets in, right side is greyed out and makes it appear broken or as if part of the site is down. Until a topic is selected, the right side is 'lit up' and then feels like it should be there.
 - Submitting data didn't function and breaks.
 - I am not a huge fan of the appearance of the app. Everything is very organized and the login screen is visually appealing, but I'm not sure that everyone likes dark mode.
+- The Latin kinda threw me off. It seems like it doesn't make a difference but it made the difference between knowing what the site was for instantly and having to probe around for a bit to understand it was a tutoring site.
 
 ##### Would you use an app such as this one? If so why?
 
@@ -315,10 +317,11 @@ meteor npm run lint
 - Yes, everything seems organized and can help visualize workflow.
 - Yes, it has the function to be a really good choice for tutoring.
 - I would use an app such as this one. In terms of the web app, it is straightforward and organized. In terms of the concept, as a previous Elementary Education major/new Hawaiian Studies major, I don't think we necessarily get stuck on assignments and require help from others much (compared to like building a site). However, in the following questions, I explain how this can be applied to other majors outside of ICS.
+- Sure, it seems easy to use
 
 ##### What is your major? If not computer science, would you like to see this web app for your major?
 
-![chart](images/graph.PNG)
+![chart](images/newgraph.PNG)
 
 ##### Would you like the see this site or something similar implemented for UH?
 
@@ -327,6 +330,7 @@ meteor npm run lint
 - Yes.
 - Yes, it would serve to be really good for students.
 - I think this would be a great site for students who need tutoring or support from other students in their majors (ex: the Learning Emporium). It can potentially provide students with the opportunity/incentive to help and work with people they don't know.
+- With UH owning and running it? absolutely not they make everything a headache. But if it was separately owned and used as a resource then absolutely.
 
 ##### How is it compared to other websites you use and how does it compare to those in the UH system?
 
@@ -335,6 +339,7 @@ meteor npm run lint
 - Laulima has a calendar function, but most Laulima sites don't use them. Laulima even has discussion/assignment sections which could really be merged into one using the format this site has.
 - It has the functionality to be a huge benefit for students.
 - I think it is a lot more straightforward and organized in comparison to other websites (including those in the UH system). There isn't an overwhelming amount of information and completing tasks (ex: creating session) is a simple process.
+- It seems to stand well along other normal websites. It is more intuitive than most UH websites.
 
 ##### Any suggestions to improve the web app?
 
@@ -346,6 +351,7 @@ meteor npm run lint
   Calendar: include what month it is, display all times and sessions (like Mac Calendar - you can see all of the events and what time they start), perhaps add a feature so that you can see the sessions for just this week, add option to create sessions on this page
   Appearance: could be more visually appealing and welcoming (rather than dark mode), initially it is not really obvious that this an app for ICS students (aside from mentioning ICSpace as you read further on the homepage)
   Misc: provide contact info at the bottom of the page for questions/concerns, automatic refresh to the homepage when logging out, page for instructions in terms of explaining like what it means to be a grasshopper and sensei
+ - Improve usability on mobile
   
 ##### Any noticeable bugs and/or flaws?
 
@@ -355,6 +361,7 @@ meteor npm run lint
 - The page index box doesn't scroll with the horizontal scroll box.
 - Spelling and function of database
 - Sign Up and a lot of features not working/accessible. The language of the session topics is Latin(?). Some features not yet completed.
+- Mobile browsers have trouble with sign in/up buttons
 
 ##### Any additional comments?
 
@@ -362,6 +369,7 @@ meteor npm run lint
 - N/A
 - Overall, still a good webpage and looks like it'll get the job done.
 - Site looks good and has function to be a good site for students
+- N/A
 - N/A
 
 User guide
