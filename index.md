@@ -22,6 +22,7 @@
 * [Milestone 3](#milestone-3)
 * [Developer Guide](#developer-guide)
 * [Community Feedback](#community-feedback)
+* [User Guide](#user-guide)
 
 > ### [We have deployed Milestone 2 to Galaxy! Click here to check it out.](https://study-uhp.meteorapp.com/)
 
@@ -285,7 +286,6 @@ Study UHp includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/mas
 ~~~
 meteor npm run lint
 ~~~
-
 ### Community Feedback
 How does the site look?
 ![chart](images/chart.PNG)
@@ -344,3 +344,61 @@ How does the site look?
 - Overall, still a good webpage and looks like it'll get the job done.
 - Site looks good and has function to be a good site for students
 - N/A
+
+
+
+User guide
+---
+
+When you the user first gets onto the site, you will be greeted with our logo and signin/signup buttons.
+
+![m1_landing](images/m1_landing.png)
+
+The text will show you what our webapp can do for you and what the webapp will be used for. After clicking signup, you will be led to the signup page.
+
+![m1_signup](images/m1_signup.png)
+
+You will be asked to enter your email, first name, last name, and a little about yourself.
+
+After going through the prompt you will be taken to the sessions tab.
+
+![m3_sessions](images/m3_session.png)
+
+you can view all of the current sessions, but before going through that lets go to the edit profile page. You can get here by clicking in the corner on your email and clicking on profile.
+
+![userprofile2](images/userprofile2.png)
+
+Here you will be given the option to add classes you're good at in the Sensei's list or classes you might need help with in the grasshopper's list. The profile will also show you the current sessions that you joined.
+
+As you can see there are a points system, the points system is supposed to be a game, where you earn points by tutoring people in classes that you're good at. The score will reset every week and give you points based on how many people you helped.
+
+Now lets get back to the sessions tab. 
+
+![m3_sessions](images/m3_session.png)
+
+Here you can look at all the sessions that were made. To view the session in more detail look on the right side. Right now it is greyed out but when you click on any session it will light up.
+
+![m3_sessionafterclicking](images/m3_sessionafterclicking.png)
+
+You can see all of the details of the session here. It will inculde the person that started the session, the duration of the session, the topic you will be working on, who the participants are, and finally when the session will be held.
+
+To join the session simply click the JOIN SESSION button!
+
+![m3_swalupdate](images/m3_swalupdate.png)
+
+Here you will need to choose whether you would like to join as a grasshopper(tutored), or the sensei(tutor). After clicking on one of the options, the session will reflect your decision.
+
+![m3_sessionjoined](images/m3_sessionjoined%20session.png)
+
+Now that we have the sessions tab out of the way we can move onto the calendar tab. Here you will have most of the functionality from the sessions but in a different view.
+
+![m3_calendar](images/m3_calendar.png)
+
+As you can see, you can view all the sessions for the month in an easy to read calendar. Here you can also choose to view a session by clicking on any of the green tabs.
+
+![m3_viewfromcal](images/m3_viewfromcal.png)
+
+It will then bring you to the session that you clicked on, and here you may also choose to join a session.
+
+Our webapp was designed to encourage ICS students to use ICSpace and help students find people to study with/get help. 
+
