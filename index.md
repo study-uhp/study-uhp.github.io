@@ -289,7 +289,7 @@ meteor npm run lint
 
 ### Community Feedback
 
-How does the site look?
+##### How does the site look?
 ![chart](images/chart.PNG)
 
 ##### What's your favorite thing about the web app? Why?
