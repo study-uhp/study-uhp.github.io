@@ -286,9 +286,11 @@ Study UHp includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/mas
 ~~~
 meteor npm run lint
 ~~~
+
 ### Community Feedback
 How does the site look?
 ![chart](images/chart.PNG)
+
 #####What's your favorite thing about the web app? Why?
 - The landing page, high quality work. The image follows mouse!!!! OP
 - The fact that it makes it easier to study with friends
@@ -302,26 +304,31 @@ How does the site look?
 - When user first gets in, right side is greyed out and makes it appear broken or as if part of the site is down. Until a topic is selected, the right side is 'lit up' and then feels like it should be there.
 - Submitting data didn't function and breaks.
 - I am not a huge fan of the appearance of the app. Everything is very organized and the login screen is visually appealing, but I'm not sure that everyone likes dark mode.
+
 #####Would you use an app such as this one? If so why?
 - Yes, it has functionality to helping students getting tutored overall.
 - Yes if I was trying to find study partners.
 - Yes, everything seems organized and can help visualize workflow.
 - Yes, it has the function to be a really good choice for tutoring.
 - I would use an app such as this one. In terms of the web app, it is straightforward and organized. In terms of the concept, as a previous Elementary Education major/new Hawaiian Studies major, I don't think we necessarily get stuck on assignments and require help from others much (compared to like building a site). However, in the following questions, I explain how this can be applied to other majors outside of ICS.
+
 #####What is your major? If not computer science, would you like to see this web app for your major?
 ![chart](images/graph.PNG)
+
 #####Would you like the see this site or something similar implemented for UH?
 - Yes, it will help students learn and overall benefit.
 - Definitely, would make it easier to connect with classmates
 - Yes.
 - Yes, it would serve to be really good for students.
 - I think this would be a great site for students who need tutoring or support from other students in their majors (ex: the Learning Emporium). It can potentially provide students with the opportunity/incentive to help and work with people they don't know.
+
 #####How is it compared to other websites you use and how does it compare to those in the UH system?
 - It is very similar formatting and will work towards.
 - Less intuitive than other UH websites(barely), has potential to be very useful though.
 - Laulima has a calendar function, but most Laulima sites don't use them. Laulima even has discussion/assignment sections which could really be merged into one using the format this site has.
 - It has the functionality to be a huge benefit for students.
 - I think it is a lot more straightforward and organized in comparison to other websites (including those in the UH system). There isn't an overwhelming amount of information and completing tasks (ex: creating session) is a simple process.
+
 #####Any suggestions to improve the web app?
 - Finish the website
 - More interactivity, hover over user icons for their information, see a user list in each session, etc.
@@ -331,6 +338,7 @@ How does the site look?
   Calendar: include what month it is, display all times and sessions (like Mac Calendar - you can see all of the events and what time they start), perhaps add a feature so that you can see the sessions for just this week, add option to create sessions on this page
   Appearance: could be more visually appealing and welcoming (rather than dark mode), initially it is not really obvious that this an app for ICS students (aside from mentioning ICSpace as you read further on the homepage)
   Misc: provide contact info at the bottom of the page for questions/concerns, automatic refresh to the homepage when logging out, page for instructions in terms of explaining like what it means to be a grasshopper and sensei
+  
 #####Any noticeable bugs and/or flaws?
 - Submitting data and questions are a little weird
 - None that I can see
@@ -338,14 +346,13 @@ How does the site look?
 - The page index box doesn't scroll with the horizontal scroll box.
 - Spelling and function of database
 - Sign Up and a lot of features not working/accessible. The language of the session topics is Latin(?). Some features not yet completed.
+
 #####Any additional comments?
 - Looks amazing, i would like to see it implemented for the schools.
 - N/A
 - Overall, still a good webpage and looks like it'll get the job done.
 - Site looks good and has function to be a good site for students
 - N/A
-
-
 
 User guide
 ---
@@ -364,7 +371,7 @@ After going through the prompt you will be taken to the sessions tab.
 
 ![m3_sessions](images/m3_session.png)
 
-you can view all of the current sessions, but before going through that lets go to the edit profile page. You can get here by clicking in the corner on your email and clicking on profile.
+You can view all of the current sessions, but before going through that lets go to the edit profile page. You can get here by clicking in the corner on your email and clicking on profile.
 
 ![userprofile2](images/userprofile2.png)
 
