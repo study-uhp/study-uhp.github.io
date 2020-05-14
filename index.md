@@ -232,7 +232,15 @@ As you can see above, after joining the session you will be given the option to 
 
 ### Calendar
 
+With the new calendar page, it will reflect the sessions made and update itself when a new session is made. In the calendar it will show all the sessions held on that day.
 
+![m3_calendar](images/m3_calendar.png)
+
+You can access any of the sessions on the calendar by clicking on one of the green tabs.
+
+![m3_viewfromcal](images/m3_viewfromcal.png)
+
+Here you can view, or join any session just like on the session page.
 
 
 Developer Guide
