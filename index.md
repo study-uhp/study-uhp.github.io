@@ -24,7 +24,7 @@
 * [Community Feedback](#community-feedback)
 * [User Guide](#user-guide)
 
-> ### [We have deployed Milestone 2 to Galaxy! Click here to check it out.](https://study-uhp.meteorapp.com/)
+> ### [We have deployed Milestone 2 to Galaxy! Click here to check it out.](http://studyuhp.meteorapp.com/ )
 
 
 
