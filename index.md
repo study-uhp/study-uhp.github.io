@@ -209,6 +209,32 @@ The goal of [Milestone 3](http://courses.ics.hawaii.edu/ics314s20/morea/final-pr
 [![m3_project](images/TEMP-M3.PNG)](https://github.com/study-uhp/study-uhp/projects/4)
 
 
+### Session tab
+
+In the session tab you can view all the sessions created. You can view up to 10 sessions per page. 
+
+![m3_session](images/m3_session.png)
+
+As you can see the session page on the right is grayed out on first load. This will later light up as you click to view other sessions.
+
+![m3_sessionafterclicking](images/m3_sessionafterclicking.png)
+
+This is the view after clicking on the session, and it will show all the current grasshoppers and senseis in the session. There is also a join session button that will add the user to the list of participants and update the session. After clicking 'JOIN SESSION', you will be prompted to choose whether you want to join as a grasshopper or a sensei.
+
+![m3_swalupdate](images/m3_swalupdate.png)
+
+Here you can choose which role you will be placed in on the session.
+
+
+![m3_sessionjoined](images/m3_sessionjoined%20session.png)
+
+As you can see above, after joining the session you will be given the option to leave the session.
+
+### Calendar
+
+
+
+
 Developer Guide
 ---
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
